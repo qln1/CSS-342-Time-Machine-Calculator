@@ -17,8 +17,8 @@ Download this project as zip and extract it
 Open in any IDE that supports C++ (such as VS Code)
 Compile and run
 
-**Copyright**
-This project is copyrighted by the UWB Computer Science & Software Engineering department from the course CSS 342 and is protected by their Code of Conduct.
+**Copyright**/n
+This project is copyrighted by the UWB Computer Science & Software Engineering department from the CSS 342 course and is protected by their Code of Conduct.
 
 **This project is made private to avoid academic dishonesty and prevent plagiarism.
 Actual code available upon request.**
