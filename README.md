@@ -6,7 +6,7 @@ Stores a certain time and is able to perform multiple operations on the given ti
 With the given time, the user can perform many operations on the time such as addition, subtraction, unary negation, comparator operations, and more.
 
 <h2>Goal and Requirements</h2>
-The goal of this project is be helpful for users who need to perform an operation on the current time. This can be used if users need to plan ahead and see what the next time will be X hours/minutes/seconds from now. This helps users plan for the future and perform many operations on the time to see how the clock will be affected. This progran is able to take in both negative and positive numbers and convert them accordingly.
+The goal of this project is be helpful for users who need to perform an operation on the current time. This can be used if users need to plan ahead and see what the next time will be X hours/minutes/seconds from now. This helps users plan for the future and perform many operations on the time to see how the clock will be affected. This program is also able to take in both negative and positive numbers and convert them accordingly.
 
 <h2>Installation</h2>
 1. Download this project as zip and extract it <br />
