@@ -1,4 +1,4 @@
-# CSS-342-Time-Machine-Calculator-Assign.1
+# CSS-342-Time-Machine-Calculator
 Stores a certain time and is able to perform multiple operations on the given time.
 
 <h2>About</h2>
