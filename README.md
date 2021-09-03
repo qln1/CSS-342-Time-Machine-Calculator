@@ -16,6 +16,5 @@ The goal of this project is be helpful for users who need to perform an operatio
 <h2>Copyright</h2>
 This project is copyrighted by the UWB Computer Science & Software Engineering department from the CSS 342 course and is protected by their Code of Conduct.
 <br />
-<br />
-**This project is made private to avoid academic dishonesty and prevent plagiarism.
-<br />Actual code available upon request.**
+**This project is made private to avoid academic dishonesty and prevent plagiarism.** <br />
+**Actual code available upon request.**
