@@ -9,9 +9,9 @@ With the given time, the user can perform many operations on the time such as ad
 The goal of this project is be helpful for users who need to perform an operation on the current time. This can be used if users need to plan ahead and see what the next time will be X hours/minutes/seconds from now. This helps users plan for the future and perform many operations on the time to see how the clock will be affected. This progran is able to take in both negative and positive numbers and convert them accordingly.
 
 **Installation**<br />
-Download this project as zip and extract it
-Open in any IDE that supports C++ (such as VS Code)
-Compile and run
+*Download this project as zip and extract it
+*Open in any IDE that supports C++ (such as VS Code)
+*Compile and run
 
 **Copyright**<br />
 This project is copyrighted by the UWB Computer Science & Software Engineering department from the CSS 342 course and is protected by their Code of Conduct.
