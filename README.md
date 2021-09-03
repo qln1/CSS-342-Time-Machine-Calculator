@@ -2,7 +2,7 @@
 Stores a certain time and is able to perform multiple operations on the given time.
 
 **About**
-Takes in floats/integers as numbers and converts them into a valid time. For example, 0.5 hours is converted into 30 min and 120 seconds is stored as 2 minutes.
+ Takes in floats/integers as numbers and converts them into a valid time. For example, 0.5 hours is converted into 30 min and 120 seconds is stored as 2 minutes.
 With the given time, the user can perform many operations on the time such as addition, subtraction, unary negation, comparator operations, and more.
 
 **Goal and Requirements**
