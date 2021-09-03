@@ -20,5 +20,4 @@ This project is copyrighted by the UWB Computer Science & Software Engineering d
 
 
 
-<h3>This project is made private to avoid academic dishonesty and prevent plagiarism.</h3>
-<h3>Actual code available upon request.</h3>
+<h3>This project is made private to avoid academic dishonesty and prevent plagiarism. <br /> Actual code available upon request.</h3>
